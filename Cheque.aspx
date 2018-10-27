@@ -142,8 +142,8 @@
 				<TR bgColor="#ffffff">
 					<TD class="style24" bgColor="#ff0000" colSpan="2" height="53">
 						<DIV align="center">
-							<asp:Button id="Button1" runat="server" Text="Submit"></asp:Button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-							<asp:Button id="Button2" runat="server" Text="Cancel"></asp:Button></DIV>
+				<asp:Button id="Button1" runat="server" Text="Submit"></asp:Button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<asp:Button id="Button2" runat="server" Text="Cancel"></asp:Button></DIV>
 					</TD>
 				</TR>
 			</TABLE>
